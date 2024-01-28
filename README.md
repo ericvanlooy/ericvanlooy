@@ -1,10 +1,4 @@
 - 👋 Hi, I’m @ericvanlooy
-- 👀 I’m a novice but intrigued by the world of coding (mainly front-end)
-- 🌱 I’m currently learning through TOP
-- 💞️ I’m looking to collaborate on anything that peaks my interest. I'm a linguist at heart, so loc-related products could be my thing
-- 📫 Reach me on Discord (looneyvicar)
-
-<!---
-ericvanlooy/ericvanlooy is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+- 👀 Data Analyst and novice coder
+- 🌱 This GitHub page will provide an overview of some SQL- and/or Python-based queries into various project datasets
+- 📫 Reach me on Discord (looneyvicar), LinkedIn (evanlooy) or email (ericvanlooy@hotmail.com)
